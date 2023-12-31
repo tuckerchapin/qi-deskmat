@@ -1,0 +1,65 @@
+{
+  "logitech-powerplay": {
+    "width": 344,
+    "height": 284,
+    "thickness": 1,
+    "cornerRadius": {
+      "topLeft": 12,
+      "topRight": 12,
+      "bottomRight": 12,
+      "bottomLeft": 12
+    },
+    "image": {
+      "path": "chargers/logitech-powerplay.png",
+      "top": -72.5,
+      "left": -89,
+      "width": 519
+    },
+    "meta": {
+      "make": "Logitech",
+      "model": "Powerplay"
+    }
+  },
+  "razer-hyperflux": {
+    "width": 355,
+    "height": 244,
+    "thickness": 1,
+    "cornerRadius": {
+      "topLeft": 0,
+      "topRight": 0,
+      "bottomRight": 19,
+      "bottomLeft": 19
+    },
+    "image": {
+      "path": "chargers/razer-hyperflux.png",
+      "top": -120,
+      "left": -43,
+      "width": 443
+    },
+    "meta": {
+      "make": "Razer",
+      "model": "Hyperflux"
+    }
+  },
+  "corsair-mm1000": {
+    "width": 360,
+    "height": 265,
+    "thickness": 1,
+    "cornerRadius": {
+      "topLeft": 0,
+      "topRight": 0,
+      "bottomRight": 7,
+      "bottomLeft": 7
+    },
+    "image": {
+      "path": "chargers/corsair-mm1000.png",
+      "top": -62,
+      "left": -9.5,
+      "width": 379.5
+    },
+    "meta": {
+      "make": "Corsair",
+      "model": "MM1000"
+    }
+  }
+}
